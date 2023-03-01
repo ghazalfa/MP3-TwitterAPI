@@ -1,4 +1,4 @@
-package timedelayqueue;
+package test.java.timedelayqueue;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

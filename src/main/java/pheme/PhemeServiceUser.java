@@ -1,4 +1,4 @@
-package pheme;
+package main.java.pheme;
 
 import java.util.UUID;
 

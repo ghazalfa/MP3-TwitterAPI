@@ -1,4 +1,4 @@
-package pheme;
+package main.java.pheme;
 
 import timedelayqueue.PubSubMessage;
 

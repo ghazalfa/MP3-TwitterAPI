@@ -1,4 +1,4 @@
-package timedelayqueue;
+package main.java.timedelayqueue;
 
 public enum BasicMessageType implements MessageType {
     SIMPLEMSG("A simple message from a sender to one or more recipients"),

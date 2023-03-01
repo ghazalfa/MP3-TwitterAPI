@@ -1,4 +1,4 @@
-package phemeservice;
+package test.java.phemeservice;
 
 import io.github.redouane59.twitter.dto.tweet.TweetV2;
 import org.junit.jupiter.api.Test;

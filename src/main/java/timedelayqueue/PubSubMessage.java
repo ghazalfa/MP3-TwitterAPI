@@ -1,4 +1,4 @@
-package timedelayqueue;
+package main.java.timedelayqueue;
 
 import java.sql.Timestamp;
 import java.util.ArrayList;

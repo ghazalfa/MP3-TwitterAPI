@@ -1,4 +1,4 @@
-package phemeservice;
+package test.java.phemeservice;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.MethodOrderer;

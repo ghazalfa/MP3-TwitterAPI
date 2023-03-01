@@ -1,7 +1,5 @@
-package timedelayqueue;
+package main.java.timedelayqueue;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.sql.Timestamp;
 import java.util.Comparator;

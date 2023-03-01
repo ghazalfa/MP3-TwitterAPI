@@ -1,4 +1,4 @@
-package twitter;
+package main.java.twitter;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
